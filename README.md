@@ -1,13 +1,13 @@
-# サンプルアプリケーション
+# 勤怠システムを開発しよう！
 
-このアプリケーションを土台として、タスク管理機能を持つアプリへ拡張していただきます。
+これはセレブエンジニアサロンの教材で作られたサンプルアプリケーションです。
 
 ## 開発環境
 
 * AWS Cloud9
 * Ruby
-* Git
-* Heroku
+* Rails
+* Git（HTTPSからSSH通信へ変更）
 
 ```
 $ git clone https://github.com/sample-874/sample-app.git
